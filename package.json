@@ -1,7 +1,7 @@
 {
   "name": "@kimdayeondev/learnstorybook-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -14,7 +14,7 @@
     "watch": "rollup --watch -c --bundleConfigAsCjs",
     "clean": "rimraf ./dist",
     "prebuild": "yarn clean",
-    "release": "yarn build && auto shipit",
+    "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
