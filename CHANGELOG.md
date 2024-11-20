@@ -1,3 +1,16 @@
+# v0.1.4 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/dyeon-dev/learnstorybook-design-system ([@dyeon-dev](https://github.com/dyeon-dev))
+- chromatic node 버전 업데이트 ([@dyeon-dev](https://github.com/dyeon-dev))
+
+#### Authors: 1
+
+- DaYeonKim ([@dyeon-dev](https://github.com/dyeon-dev))
+
+---
+
 # v0.1.2 (Wed Nov 20 2024)
 
 #### ⚠️ Pushed to `main`
