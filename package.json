@@ -13,7 +13,7 @@
     "build": "cross-env BABEL_ENV=production babel src -d dist",
     "watch": "rollup --watch -c --bundleConfigAsCjs",
     "clean": "rimraf ./dist",
-    "prebuild": "yarn clean",
+    "prebuild": "npm run clean",
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
