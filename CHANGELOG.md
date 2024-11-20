@@ -1,3 +1,16 @@
+# v0.1.5 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/dyeon-dev/learnstorybook-design-system ([@dyeon-dev](https://github.com/dyeon-dev))
+- globalstyle 추가 ([@dyeon-dev](https://github.com/dyeon-dev))
+
+#### Authors: 1
+
+- DaYeonKim ([@dyeon-dev](https://github.com/dyeon-dev))
+
+---
+
 # v0.1.4 (Wed Nov 20 2024)
 
 #### ⚠️ Pushed to `main`
