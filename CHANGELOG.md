@@ -1,3 +1,20 @@
+# v0.1.2 (Wed Nov 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- author 정보 추가 ([@dyeon-dev](https://github.com/dyeon-dev))
+- Auto 플러그인업데이트 ([@dyeon-dev](https://github.com/dyeon-dev))
+- prebuild 수정 ([@dyeon-dev](https://github.com/dyeon-dev))
+- fix: push.yml 코드수정 ([@dyeon-dev](https://github.com/dyeon-dev))
+- property-in-object 설치 ([@dyeon-dev](https://github.com/dyeon-dev))
+- fix: node 버전 18 ([@dyeon-dev](https://github.com/dyeon-dev))
+
+#### Authors: 1
+
+- DaYeonKim ([@dyeon-dev](https://github.com/dyeon-dev))
+
+---
+
 # v0.1.1 (Wed Nov 20 2024)
 
 #### ⚠️ Pushed to `main`
