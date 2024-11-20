@@ -42,7 +42,7 @@
     "@storybook/react-vite": "^8.4.4",
     "@storybook/test": "^8.4.4",
     "@vitejs/plugin-react": "^3.1.0",
-    "auto": "^10.46.0",
+    "auto": "^11.3.0",
     "babel-preset-react-app": "^10.0.1",
     "boxen": "^5.0.1",
     "dedent": "^0.7.0",
@@ -80,7 +80,8 @@
   "dependencies": {
     "@babel/cli": "^7.25.9",
     "chromatic": "^11.18.1",
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "gitlog": "^5.1.0"
   },
   "description": "Storybook design systems tutorial",
   "repository": {
